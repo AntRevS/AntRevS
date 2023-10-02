@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Anton</a> 
 <h3>Computer science graduate, Android developer</h3>
-<img src="https://media.tenor.com/g6HaWJWdyTAAAAAC/cai-anime-typing.gif">
+<img src="https://media.tenor.com/oUak0UFSotcAAAAd/kiryu-java-yakuza-import-util-kazuma.gif" width=400>
 
 ---
 
